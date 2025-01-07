@@ -18,3 +18,9 @@
   border-radius: 4px;
   cursor: pointer;
 }
+
+@media (max-width: 500px) {
+  .busca input {
+    width: 200px;
+  }
+}
