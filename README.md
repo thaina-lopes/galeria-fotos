@@ -28,7 +28,7 @@ Para rodar o repositório é necessário clonar o mesmo e dar o seguinte comando
 git clone https://github.com/thaina-lopes/galeria-fotos.git
 ```
 
-- Entre no arquivo do projeto:
+- Entre na pasta do projeto:
 
 ```bash
 cd galeria-fotos
@@ -40,7 +40,7 @@ cd galeria-fotos
 npm install
 ```
 
-- Inicialize o projeto:
+- Rode o comando abaixo para iniciar o servidor local:
 
 ```bash
 npm start
