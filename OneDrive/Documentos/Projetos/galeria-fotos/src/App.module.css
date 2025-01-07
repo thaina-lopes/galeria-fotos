@@ -1,0 +1,40 @@
+.aplicacao {
+  font-family: "Tenor Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.cabecalho {
+  background-color: var(--branco);
+  color: var(--cinza);
+  padding: 20px;
+}
+.titulo {
+  text-align: center;
+}
+
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
+  gap: 16px;
+  padding: 16px;
+}
+
+.semResultado {
+  color: var(--cinza);
+  font-size: 1.2em;
+}
+
+.rodape {
+  margin-top: 40px;
+  background-color: var(--background);
+  padding: 10px;
+  color: var(--cinza);
+  font-size: 0.9em;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+}

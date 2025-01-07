@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Tenor Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  width: 100vw;
+  min-height: 100vh;
+}
+:root {
+  --branco: #ffffff;
+  --cinza: #333;
+  --cinza-claro: #ddd;
+  --background: #f4f4f4;
+}
