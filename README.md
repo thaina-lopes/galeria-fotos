@@ -16,6 +16,7 @@ Projeto de uma aplicação web que exibe uma galeria de fotos, permitindo que os
 - CSS
 - JavaScript
 - React
+- React Testing Library
 
 ## :computer: Rodando o projeto
 
