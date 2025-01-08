@@ -1,5 +1,4 @@
-
-  # :camera: Galeria de Fotos
+# :camera: Galeria de Fotos
 
 Projeto de uma aplicação web que exibe uma galeria de fotos, permitindo que os usuários visualizem, filtrem e pesquisem imagens com base em palavras-chave.
 
@@ -46,3 +45,14 @@ npm install
 npm start
 ```
 
+- Rode o comando abaixo para rodar os testes unitários:
+
+```bash
+npm run test
+```
+
+- Rode o comando abaixo para rodar os testes gerando a cobertura de código:
+
+```bash
+npm run test:coverage
+```

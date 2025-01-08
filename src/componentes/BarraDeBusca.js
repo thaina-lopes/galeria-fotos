@@ -11,7 +11,7 @@ export default function BarraDeBusca({ termoBusca, setTermoBusca }) {
         onChange={(e) => setTermoBusca(e.target.value)}
       />
       <button>
-        <span role="img" aria-label="search">
+        <span aria-label="search">
           <FaMagnifyingGlass />
         </span>
       </button>

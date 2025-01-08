@@ -91,6 +91,7 @@ export default function App() {
           <a
             href="https://github.com/thaina-lopes/galeria-fotos"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             Thainá Lopes
